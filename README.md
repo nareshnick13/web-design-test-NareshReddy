@@ -42,6 +42,11 @@ Create a professional landing page that effectively presents a Smart cricket bat
 2. Install Dependencies
 3. Start the development server:
 
+## References : 
+1. https://metashot.com/products/smart-cricket-bat-with-tv-kit
+2. https://lucide.dev/
+3. https://unsplash.com/
+
 ##  Product 
  - console like bat makes gaming an active experience. You're not just sitting around; you physically play the shots, enjoying the simulation while staying active. So, play on and keep moving!
 
